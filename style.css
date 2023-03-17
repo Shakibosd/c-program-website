@@ -1,7 +1,7 @@
 .link-button{
  text-align: center;
  text-decoration: none;
- background-image: linear-gradient(50deg, darkgreen, darkturquoise,rgb(26, 221, 71));
+ background-image: linear-gradient(50deg, rgb(27, 228, 27), rgb(13, 244, 248),rgb(243, 7, 70));
  padding: 10px 20px;
  border-radius: 7px;
  color: white;
@@ -45,4 +45,16 @@
 .ppp {
  text-align: center;
  color: lightskyblue;
+}
+.link-butto{
+ text-align: center;
+ text-decoration: none;
+ background-image: linear-gradient(50deg, rgb(235, 143, 23), rgba(15, 162, 246, 0.588),rgb(234, 12, 230));
+ padding: 10px 20px;
+ border-radius: 7px;
+ color: white;
+ float: 800;
+}
+.container {
+ color: mediumvioletred;
 }
